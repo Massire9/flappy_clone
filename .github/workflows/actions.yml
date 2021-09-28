@@ -14,6 +14,6 @@ jobs:
 
       - name: Deploy 🚀
         with:
-          uses: Massire9/actions
+          uses: Massire9/actions@4.1.5
           branch: master # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
